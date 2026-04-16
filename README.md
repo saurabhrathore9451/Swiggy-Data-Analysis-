@@ -29,4 +29,4 @@ swiggy data analysis.pbix: Power BI file containing the dashboard and visualizat
 DASHBOARD
 
 Show what the dashboard looks like. - ![A1t text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]([https://github.com/saurabhrathore9451/Swiggy-Data-Analysis/blob/main/README.md](https://github.com/saurabhrathore9451/Swiggy-Data-Analysis/blob/main/Swiggy%20Data%20Analysis.png)
+Example: ![Dashboard Preview](https://github.com/saurabhrathore9451/Swiggy-Data-Analysis/blob/main/Swiggy%20Data%20Analysis.png)
