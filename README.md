@@ -10,11 +10,19 @@ The objective of this project is to analyze data from Swiggy, a popular food del
 
 -Key Features
 
-Customer Insights: Understanding customer preferences, peak order times, and repeat ordering patterns. Demand Analysis: Identifying high-demand areas, peak hours, and popular cuisines to help inform targeted marketing strategies. Delivery Performance: Analyzing delivery times, efficiency metrics, and areas for improvement in logistics. Revenue and Growth Trends: Examining revenue contributions by area, identifying growth opportunities, and visualizing trends.
+Customer Insights: Understanding customer preferences, peak order times, and repeat ordering patterns. 
+
+Demand Analysis: Identifying high-demand areas, peak hours, and popular cuisines to help inform targeted marketing strategies. 
+
+Delivery Performance: Analyzing delivery times, efficiency metrics, and areas for improvement in logistics. 
+
+Revenue and Growth Trends: Examining revenue contributions by area, identifying growth opportunities, and visualizing trends.
 
 -Technologies Used
 
-Power BI: For data visualization and dashboard creation. Data Cleaning and Transformation: Techniques applied to ensure data accuracy and consistency.
+Power BI: For data visualization and dashboard creation. 
+
+Data Cleaning and Transformation: Techniques applied to ensure data accuracy and consistency.
 
 -Repository Structure
 
